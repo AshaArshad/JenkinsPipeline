@@ -1,0 +1,1 @@
+echo 'Passed Quality check: %date% :%time%'
